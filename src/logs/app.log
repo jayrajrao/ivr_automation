@@ -1,0 +1,45 @@
+[04 Sep, 2024 - 13:47:52:4752] [33mwarn[39m: [33mKeys Found. Reading keys[39m
+[04 Sep, 2024 - 13:47:52:4752] [33mwarn[39m: [33mHash Found. Reading Hash[39m
+[04 Sep, 2024 - 13:47:56:4756] [34minfo[39m: [34mMongoDB Connected: {"host":"ac-hpkj29s-shard-00-00.pjdhf90.mongodb.net"}[39m
+[04 Sep, 2024 - 13:47:56:4756] [31merror[39m: [31mRedis Error: Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+[04 Sep, 2024 - 13:58:47:5847] [33mwarn[39m: [33mKeys Found. Reading keys[39m
+[04 Sep, 2024 - 13:58:47:5847] [33mwarn[39m: [33mHash Found. Reading Hash[39m
+[04 Sep, 2024 - 13:58:50:5850] [34minfo[39m: [34mMongoDB Connected: {"host":"ac-hpkj29s-shard-00-00.pjdhf90.mongodb.net"}[39m
+[04 Sep, 2024 - 13:58:51:5851] [34minfo[39m: [34mServer is running on port 5500[39m
+[04 Sep, 2024 - 14:02:21:221] [33mwarn[39m: [33mKeys Found. Reading keys[39m
+[04 Sep, 2024 - 14:02:21:221] [33mwarn[39m: [33mHash Found. Reading Hash[39m
+[04 Sep, 2024 - 14:02:24:224] [34minfo[39m: [34mMongoDB Connected: {"host":"ac-hpkj29s-shard-00-00.pjdhf90.mongodb.net"}[39m
+[04 Sep, 2024 - 14:02:24:224] [34minfo[39m: [34mServer is running on port 5500[39m
+[04 Sep, 2024 - 17:47:04:474] [33mwarn[39m: [33mKeys Found. Reading keys[39m
+[04 Sep, 2024 - 17:47:04:474] [33mwarn[39m: [33mHash Found. Reading Hash[39m
+[04 Sep, 2024 - 17:47:08:478] [34minfo[39m: [34mMongoDB Connected: {"host":"ac-hpkj29s-shard-00-00.pjdhf90.mongodb.net"}[39m
+[04 Sep, 2024 - 17:47:08:478] [34minfo[39m: [34mServer is running on port 5500[39m
+[04 Sep, 2024 - 18:03:46:346] [33mwarn[39m: [33mKeys Found. Reading keys[39m
+[04 Sep, 2024 - 18:03:46:346] [33mwarn[39m: [33mHash Found. Reading Hash[39m
+[04 Sep, 2024 - 18:03:51:351] [34minfo[39m: [34mMongoDB Connected: {"host":"ac-hpkj29s-shard-00-00.pjdhf90.mongodb.net"}[39m
+[04 Sep, 2024 - 18:03:51:351] [34minfo[39m: [34mServer is running on port 5500[39m
+[04 Sep, 2024 - 18:04:22:422] [33mwarn[39m: [33mKeys Found. Reading keys[39m
+[04 Sep, 2024 - 18:04:22:422] [33mwarn[39m: [33mHash Found. Reading Hash[39m
+[04 Sep, 2024 - 18:04:25:425] [34minfo[39m: [34mMongoDB Connected: {"host":"ac-hpkj29s-shard-00-00.pjdhf90.mongodb.net"}[39m
+[04 Sep, 2024 - 18:04:26:426] [34minfo[39m: [34mServer is running on port 5500[39m
+[04 Sep, 2024 - 18:11:29:1129] [33mwarn[39m: [33mKeys Found. Reading keys[39m
+[04 Sep, 2024 - 18:11:29:1129] [33mwarn[39m: [33mHash Found. Reading Hash[39m
+[04 Sep, 2024 - 18:11:34:1134] [34minfo[39m: [34mMongoDB Connected: {"host":"ac-hpkj29s-shard-00-00.pjdhf90.mongodb.net"}[39m
+[04 Sep, 2024 - 18:11:34:1134] [34minfo[39m: [34mServer is running on port 5500[39m
+[04 Sep, 2024 - 18:38:18:3818] [33mwarn[39m: [33mKeys Found. Reading keys[39m
+[04 Sep, 2024 - 18:38:18:3818] [33mwarn[39m: [33mHash Found. Reading Hash[39m
+[04 Sep, 2024 - 18:38:23:3823] [34minfo[39m: [34mMongoDB Connected: {"host":"ac-hpkj29s-shard-00-00.pjdhf90.mongodb.net"}[39m
+[04 Sep, 2024 - 18:38:23:3823] [34minfo[39m: [34mServer is running on port 5500[39m
+[06 Sep, 2024 - 15:25:12:2512] [33mwarn[39m: [33mKeys Found. Reading keys[39m
+[06 Sep, 2024 - 15:25:12:2512] [33mwarn[39m: [33mHash Found. Reading Hash[39m
+[06 Sep, 2024 - 15:25:16:2516] [34minfo[39m: [34mMongoDB Connected: {"host":"ac-hpkj29s-shard-00-00.pjdhf90.mongodb.net"}[39m
+[06 Sep, 2024 - 15:25:16:2516] [34minfo[39m: [34mServer is running on port 5500[39m
+[06 Sep, 2024 - 15:28:09:289] [33mwarn[39m: [33mKeys Found. Reading keys[39m
+[06 Sep, 2024 - 15:28:09:289] [33mwarn[39m: [33mHash Found. Reading Hash[39m
+[06 Sep, 2024 - 15:28:14:2814] [34minfo[39m: [34mMongoDB Connected: {"host":"ac-hpkj29s-shard-00-00.pjdhf90.mongodb.net"}[39m
+[06 Sep, 2024 - 15:28:14:2814] [34minfo[39m: [34mServer is running on port 5500[39m
+[06 Sep, 2024 - 16:27:41:2741] [33mwarn[39m: [33mKeys Found. Reading keys[39m
+[06 Sep, 2024 - 16:27:41:2741] [33mwarn[39m: [33mHash Found. Reading Hash[39m
+[06 Sep, 2024 - 16:27:46:2746] [34minfo[39m: [34mMongoDB Connected: {"host":"ac-hpkj29s-shard-00-00.pjdhf90.mongodb.net"}[39m
+[06 Sep, 2024 - 16:27:46:2746] [34minfo[39m: [34mServer is running on port 5500[39m
+[06 Sep, 2024 - 16:27:46:2746] [31merror[39m: [31mRedis Error: Error: ERR Client sent AUTH, but no password is set[39m

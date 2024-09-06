@@ -1,0 +1,11 @@
+[04 Sep, 2024 - 13:47:56:4756] [31merror[39m: [31mRedis Error: Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+[04 Sep, 2024 - 13:58:51:5851] [31merror[39m: [31mRedis Error: Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+[04 Sep, 2024 - 14:02:24:224] [31merror[39m: [31mRedis Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+[04 Sep, 2024 - 17:47:08:478] [31merror[39m: [31mRedis Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+[04 Sep, 2024 - 18:03:51:351] [31merror[39m: [31mRedis Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+[04 Sep, 2024 - 18:04:26:426] [31merror[39m: [31mRedis Error: Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+[04 Sep, 2024 - 18:11:34:1134] [31merror[39m: [31mRedis Error: Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+[04 Sep, 2024 - 18:38:23:3823] [31merror[39m: [31mRedis Error: Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+[06 Sep, 2024 - 15:25:16:2516] [31merror[39m: [31mRedis Error: Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+[06 Sep, 2024 - 15:28:14:2814] [31merror[39m: [31mRedis Error: Error: connect ECONNREFUSED 127.0.0.1:6379[39m
+[06 Sep, 2024 - 16:27:46:2746] [31merror[39m: [31mRedis Error: Error: ERR Client sent AUTH, but no password is set[39m
