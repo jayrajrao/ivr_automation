@@ -43,3 +43,8 @@
 [06 Sep, 2024 - 16:27:46:2746] [34minfo[39m: [34mMongoDB Connected: {"host":"ac-hpkj29s-shard-00-00.pjdhf90.mongodb.net"}[39m
 [06 Sep, 2024 - 16:27:46:2746] [34minfo[39m: [34mServer is running on port 5500[39m
 [06 Sep, 2024 - 16:27:46:2746] [31merror[39m: [31mRedis Error: Error: ERR Client sent AUTH, but no password is set[39m
+[06 Sep, 2024 - 16:31:15:3115] [33mwarn[39m: [33mKeys Found. Reading keys[39m
+[06 Sep, 2024 - 16:31:15:3115] [33mwarn[39m: [33mHash Found. Reading Hash[39m
+[06 Sep, 2024 - 16:31:18:3118] [34minfo[39m: [34mMongoDB Connected: {"host":"ac-hpkj29s-shard-00-00.pjdhf90.mongodb.net"}[39m
+[06 Sep, 2024 - 16:31:18:3118] [34minfo[39m: [34mServer is running on port 5500[39m
+[06 Sep, 2024 - 16:31:18:3118] [34minfo[39m: [34mRedis Connected: {"host":"127.0.0.1"}[39m
