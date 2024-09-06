@@ -1,0 +1,13 @@
+# Ignore node_modules folder
+**/node_modules/
+
+# Ignore environment variable files
+**/.env
+**/.env.*
+
+# Ignore log files
+**/logs/*.log
+
+# Ignore SSL certificates (if any)
+**/**/*.pem
+**/**/*.key
